@@ -1,5 +1,6 @@
-<!-- Trungquandev -->
+<!-- Dương--->
 <a href="#" target="_blank">
+ <img src="svg/duong.svg" width ="1200" alt= "2121051087"/>
  
 </a>
 
